@@ -1,0 +1,17 @@
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\bin\Debug\net6.0-windows\Homwork2_2CS.exe
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\bin\Debug\net6.0-windows\Homwork2_2CS.deps.json
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\bin\Debug\net6.0-windows\Homwork2_2CS.runtimeconfig.json
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\bin\Debug\net6.0-windows\Homwork2_2CS.dll
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\bin\Debug\net6.0-windows\Homwork2_2CS.pdb
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\obj\Debug\net6.0-windows\Homwork2_2CS.csproj.AssemblyReference.cache
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\obj\Debug\net6.0-windows\Homwork2_2CS.Form1.resources
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\obj\Debug\net6.0-windows\Homwork2_2CS.csproj.GenerateResource.cache
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\obj\Debug\net6.0-windows\Homwork2_2CS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\obj\Debug\net6.0-windows\Homwork2_2CS.AssemblyInfoInputs.cache
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\obj\Debug\net6.0-windows\Homwork2_2CS.AssemblyInfo.cs
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\obj\Debug\net6.0-windows\Homwork2_2CS.csproj.CoreCompileInputs.cache
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\obj\Debug\net6.0-windows\Homwork2_2CS.dll
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\obj\Debug\net6.0-windows\refint\Homwork2_2CS.dll
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\obj\Debug\net6.0-windows\Homwork2_2CS.pdb
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\obj\Debug\net6.0-windows\Homwork2_2CS.genruntimeconfig.cache
+D:\Kalac\Università\Magistrale\Statistics\H2\Homework2CS\Homework2_2CS\Homwork2_2CS\Homwork2_2CS\obj\Debug\net6.0-windows\ref\Homwork2_2CS.dll
