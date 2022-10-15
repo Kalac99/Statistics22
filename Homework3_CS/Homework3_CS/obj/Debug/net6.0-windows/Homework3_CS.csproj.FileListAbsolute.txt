@@ -1,0 +1,17 @@
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\bin\Debug\net6.0-windows\Homework3_CS.exe
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\bin\Debug\net6.0-windows\Homework3_CS.deps.json
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\bin\Debug\net6.0-windows\Homework3_CS.runtimeconfig.json
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\bin\Debug\net6.0-windows\Homework3_CS.dll
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\bin\Debug\net6.0-windows\Homework3_CS.pdb
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\obj\Debug\net6.0-windows\Homework3_CS.csproj.AssemblyReference.cache
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\obj\Debug\net6.0-windows\Homework3_CS.Form1.resources
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\obj\Debug\net6.0-windows\Homework3_CS.csproj.GenerateResource.cache
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\obj\Debug\net6.0-windows\Homework3_CS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\obj\Debug\net6.0-windows\Homework3_CS.AssemblyInfoInputs.cache
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\obj\Debug\net6.0-windows\Homework3_CS.AssemblyInfo.cs
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\obj\Debug\net6.0-windows\Homework3_CS.csproj.CoreCompileInputs.cache
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\obj\Debug\net6.0-windows\Homework3_CS.dll
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\obj\Debug\net6.0-windows\refint\Homework3_CS.dll
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\obj\Debug\net6.0-windows\Homework3_CS.pdb
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\obj\Debug\net6.0-windows\Homework3_CS.genruntimeconfig.cache
+D:\Kalac\Università\Magistrale\Statistics\H3\Homework3CS\Homework3_1CS\Homework3_CS\Homework3_CS\obj\Debug\net6.0-windows\ref\Homework3_CS.dll
