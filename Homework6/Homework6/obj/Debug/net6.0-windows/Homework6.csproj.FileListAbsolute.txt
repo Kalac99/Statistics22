@@ -1,0 +1,17 @@
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\bin\Debug\net6.0-windows\Homework6.exe
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\bin\Debug\net6.0-windows\Homework6.deps.json
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\bin\Debug\net6.0-windows\Homework6.runtimeconfig.json
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\bin\Debug\net6.0-windows\Homework6.dll
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\bin\Debug\net6.0-windows\Homework6.pdb
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\obj\Debug\net6.0-windows\Homework6.csproj.AssemblyReference.cache
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\obj\Debug\net6.0-windows\Homework6.Form1.resources
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\obj\Debug\net6.0-windows\Homework6.csproj.GenerateResource.cache
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\obj\Debug\net6.0-windows\Homework6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\obj\Debug\net6.0-windows\Homework6.AssemblyInfoInputs.cache
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\obj\Debug\net6.0-windows\Homework6.AssemblyInfo.cs
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\obj\Debug\net6.0-windows\Homework6.csproj.CoreCompileInputs.cache
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\obj\Debug\net6.0-windows\Homework6.dll
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\obj\Debug\net6.0-windows\refint\Homework6.dll
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\obj\Debug\net6.0-windows\Homework6.pdb
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\obj\Debug\net6.0-windows\Homework6.genruntimeconfig.cache
+D:\Kalac\Università\Magistrale\Statistics\H6\Homework6\Homework6\obj\Debug\net6.0-windows\ref\Homework6.dll
