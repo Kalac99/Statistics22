@@ -1,0 +1,17 @@
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\bin\Debug\net6.0-windows\Homework7.exe
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\bin\Debug\net6.0-windows\Homework7.deps.json
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\bin\Debug\net6.0-windows\Homework7.runtimeconfig.json
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\bin\Debug\net6.0-windows\Homework7.dll
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\bin\Debug\net6.0-windows\Homework7.pdb
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.csproj.AssemblyReference.cache
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.Form1.resources
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.csproj.GenerateResource.cache
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.AssemblyInfoInputs.cache
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.AssemblyInfo.cs
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.csproj.CoreCompileInputs.cache
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.dll
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\obj\Debug\net6.0-windows\refint\Homework7.dll
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.pdb
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\obj\Debug\net6.0-windows\Homework7.genruntimeconfig.cache
+D:\Kalac\Università\Magistrale\Statistics\H7\Homework7\Homework7\obj\Debug\net6.0-windows\ref\Homework7.dll
