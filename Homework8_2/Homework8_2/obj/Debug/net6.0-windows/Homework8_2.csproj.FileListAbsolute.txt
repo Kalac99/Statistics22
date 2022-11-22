@@ -1,0 +1,17 @@
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\obj\Debug\net6.0-windows\Homework8_2.csproj.AssemblyReference.cache
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\obj\Debug\net6.0-windows\Homework8_2.Form1.resources
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\obj\Debug\net6.0-windows\Homework8_2.csproj.GenerateResource.cache
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\obj\Debug\net6.0-windows\Homework8_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\obj\Debug\net6.0-windows\Homework8_2.AssemblyInfoInputs.cache
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\obj\Debug\net6.0-windows\Homework8_2.AssemblyInfo.cs
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\obj\Debug\net6.0-windows\Homework8_2.csproj.CoreCompileInputs.cache
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\bin\Debug\net6.0-windows\Homework8_2.exe
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\bin\Debug\net6.0-windows\Homework8_2.deps.json
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\bin\Debug\net6.0-windows\Homework8_2.runtimeconfig.json
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\bin\Debug\net6.0-windows\Homework8_2.dll
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\bin\Debug\net6.0-windows\Homework8_2.pdb
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\obj\Debug\net6.0-windows\Homework8_2.dll
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\obj\Debug\net6.0-windows\refint\Homework8_2.dll
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\obj\Debug\net6.0-windows\Homework8_2.pdb
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\obj\Debug\net6.0-windows\Homework8_2.genruntimeconfig.cache
+D:\Kalac\Università\Magistrale\Statistics\H8\Homework8_2\Homework8_2\obj\Debug\net6.0-windows\ref\Homework8_2.dll
