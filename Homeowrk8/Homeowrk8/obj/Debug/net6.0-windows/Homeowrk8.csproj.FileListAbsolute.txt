@@ -1,0 +1,17 @@
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\obj\Debug\net6.0-windows\Homeowrk8.csproj.AssemblyReference.cache
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\obj\Debug\net6.0-windows\Homeowrk8.csproj.GenerateResource.cache
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\obj\Debug\net6.0-windows\Homeowrk8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\obj\Debug\net6.0-windows\Homeowrk8.AssemblyInfoInputs.cache
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\obj\Debug\net6.0-windows\Homeowrk8.AssemblyInfo.cs
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\obj\Debug\net6.0-windows\Homeowrk8.csproj.CoreCompileInputs.cache
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\bin\Debug\net6.0-windows\Homeowrk8.exe
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\bin\Debug\net6.0-windows\Homeowrk8.deps.json
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\bin\Debug\net6.0-windows\Homeowrk8.runtimeconfig.json
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\bin\Debug\net6.0-windows\Homeowrk8.dll
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\bin\Debug\net6.0-windows\Homeowrk8.pdb
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\obj\Debug\net6.0-windows\Homeowrk8.dll
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\obj\Debug\net6.0-windows\refint\Homeowrk8.dll
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\obj\Debug\net6.0-windows\Homeowrk8.pdb
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\obj\Debug\net6.0-windows\Homeowrk8.genruntimeconfig.cache
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\obj\Debug\net6.0-windows\ref\Homeowrk8.dll
+D:\Kalac\Università\Magistrale\Statistics\H8\Homeowrk8\Homeowrk8\obj\Debug\net6.0-windows\Homeowrk8.Form1.resources
